@@ -1,0 +1,16 @@
+helloworld/Saying.class
+database/ExampleApplication.class
+mysql/SelectTable.class
+database/SearchResult.class
+helloworld/HelloWorldResource.class
+helloworld/HelloWorldApplication.class
+mysql/IO.class
+database/SeriesAiringUpdateObject.class
+database/myDAO.class
+mysql/SQLInsert.class
+helloworld/TemplateHealthCheck.class
+database/ExampleObject.class
+database/ExampleConfiguration.class
+database/ExampleResource.class
+helloworld/HelloWorldConfiguration.class
+database/SeriesResultMapper.class
