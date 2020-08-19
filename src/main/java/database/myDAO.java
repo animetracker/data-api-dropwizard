@@ -9,7 +9,7 @@ import java.util.List;
 
 public interface myDAO
 {
-    @SqlUpdate("insert into anime_list (user_id, anilist_id, title, next_episode_number, air_date, status, cover_image, description, notification_on, notification_change, notification_on) values (:user_id, :anilist_id, :title, :next_episode_number, :air_date, :status, :cover_image, :description, :notification_on, :notification_change)")
+    @SqlUpdate("insert into anime_list (user_id, anilist_id, title, next_episode_number, air_date, status, cover_image, description, notification_on, notification_change) values (:user_id, :anilist_id, :title, :next_episode_number, :air_date, :status, :cover_image, :description, :notification_on, :notification_change)")
     void insert(@Bind("user_id") int user_id, @Bind("anilist_id") int AniList_id,  @Bind("title") String title, @Bind("next_episode_number") int next_episode_number, @Bind("air_date") String air_date, @Bind("status") String status, @Bind("cover_image") String cover_image, @Bind("description") String description, @Bind("notification_on") int notification_on, @Bind("notification_change") String notification_change );
 
     @SqlQuery("select title from anime_list user_id = :user_id")
