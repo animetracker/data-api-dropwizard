@@ -5,10 +5,10 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 public class ExampleObject
 {
     @JsonProperty
-    private int user_id, anilist_id, next_episode_number, notification_on;
+    private int user_id, anilist_id, next_episode_number, notifications_on;
 
     @JsonProperty
-    private String title, air_date, status, cover_image, description, notification_change;
+    private String title, air_date, status, cover_image, description, notification_change, air_date_change;
 
     public ExampleObject()
     {}
@@ -37,11 +37,15 @@ public class ExampleObject
         return description;
     }
 
-    public int getNotification_on() {
-        return notification_on;
+    public int getNotifications_on() {
+        return notifications_on;
     }
 
     public String getNotification_change() {
         return notification_change;
+    }
+
+    public String getAir_date_change() {
+        return air_date_change;
     }
 }

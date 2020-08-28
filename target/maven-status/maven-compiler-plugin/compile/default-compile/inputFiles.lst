@@ -1,10 +1,13 @@
 /home/gfsb/Documents/AnimeTracker/DropWizardTesting/src/main/java/mysql/SelectTable.java
 /home/gfsb/Documents/AnimeTracker/DropWizardTesting/src/main/java/database/ExampleApplication.java
 /home/gfsb/Documents/AnimeTracker/DropWizardTesting/src/main/java/database/ExampleResource.java
+/home/gfsb/Documents/AnimeTracker/DropWizardTesting/src/main/java/database/NotificationsOnUpdateObject.java
+/home/gfsb/Documents/AnimeTracker/DropWizardTesting/src/main/java/database/NotificationChangeUpdateObject.java
 /home/gfsb/Documents/AnimeTracker/DropWizardTesting/src/main/java/database/ExampleObject.java
-/home/gfsb/Documents/AnimeTracker/DropWizardTesting/src/main/java/database/SearchResult.java
 /home/gfsb/Documents/AnimeTracker/DropWizardTesting/src/main/java/mysql/SQLInsert.java
 /home/gfsb/Documents/AnimeTracker/DropWizardTesting/src/main/java/helloworld/TemplateHealthCheck.java
+/home/gfsb/Documents/AnimeTracker/DropWizardTesting/src/main/java/database/AirDateChangeUpdateObject.java
+/home/gfsb/Documents/AnimeTracker/DropWizardTesting/src/main/java/database/Series.java
 /home/gfsb/Documents/AnimeTracker/DropWizardTesting/src/main/java/database/SeriesAiringUpdateObject.java
 /home/gfsb/Documents/AnimeTracker/DropWizardTesting/src/main/java/helloworld/Saying.java
 /home/gfsb/Documents/AnimeTracker/DropWizardTesting/src/main/java/mysql/IO.java
